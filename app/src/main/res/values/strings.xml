@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android-viewpager-kngrck</string>
+
+    <string name="first_fragment_header">Find a campground</string>
+    <string name="first_fragment_content">You can find best campgrounds and have fun by the campfire.</string>
+    <string name="second_fragment_header">Also you can look for caravan camps</string>
+    <string name="second_fragment_content">If you have a caravan. Don\'t worry! There are a lot places for caravans.</string>
+    <string name="third_fragment_header">Meet people who love camping</string>
+    <string name="third_fragment_content">You can share your thoughts about campgrounds, give stars and make new friends.</string>
 </resources>
