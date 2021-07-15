@@ -6,4 +6,7 @@
     <string name="second_fragment_content">If you have a caravan. Don\'t worry! There are a lot places for caravans.</string>
     <string name="third_fragment_header">Meet people who love camping</string>
     <string name="third_fragment_content">You can share your toughts about campgrounds, give stars and make new friends.</string>
+    <string name="hello_campers">Hello Campers</string>
+    <string name="camping">camping</string>
+    <string name="campground">Campground</string>
 </resources>
